@@ -218,13 +218,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
 
-create table orders
-(
-order_id int not null,
-order_date date not null,
-order_time time not null,
-primary key (order_id) 
-);
+
 
 
 
